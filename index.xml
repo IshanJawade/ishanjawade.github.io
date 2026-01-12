@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Ishan</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome on Ishan</description>
+    <title>Hi I am Ishan Jawade on Ishan</title>
+    <link>http://localhost:1313/personal-website/</link>
+    <description>Recent content in Hi I am Ishan Jawade on Ishan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Like Simple Websites</title>
-      <link>http://localhost:1313/blog/why-i-like-simple-websites/</link>
+      <link>http://localhost:1313/personal-website/blog/why-i-like-simple-websites/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/why-i-like-simple-websites/</guid>
+      <guid>http://localhost:1313/personal-website/blog/why-i-like-simple-websites/</guid>
       <description>Performance, clarity, and durability beat trends.</description>
     </item>
     <item>
       <title>Notes on Learning Systems Design</title>
-      <link>http://localhost:1313/blog/notes-on-learning-systems-design/</link>
+      <link>http://localhost:1313/personal-website/blog/notes-on-learning-systems-design/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/notes-on-learning-systems-design/</guid>
+      <guid>http://localhost:1313/personal-website/blog/notes-on-learning-systems-design/</guid>
       <description>Takeaways from studying large-scale systems.</description>
     </item>
     <item>
       <title>Bare-Metal LED on ATmega328P</title>
-      <link>http://localhost:1313/portfolio/bare-metal-atmega/</link>
+      <link>http://localhost:1313/personal-website/portfolio/bare-metal-atmega/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/bare-metal-atmega/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/bare-metal-atmega/</guid>
       <description>Register-level C firmware to drive GPIO and blink LEDs on the ATmega328P.</description>
     </item>
     <item>
       <title>Dooper</title>
-      <link>http://localhost:1313/portfolio/dooper/</link>
+      <link>http://localhost:1313/personal-website/portfolio/dooper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/dooper/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/dooper/</guid>
       <description>React + Spring Boot commerce app with MongoDB and Redis caching.</description>
     </item>
     <item>
       <title>Gemini-Mate</title>
-      <link>http://localhost:1313/portfolio/gemini-mate/</link>
+      <link>http://localhost:1313/personal-website/portfolio/gemini-mate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/gemini-mate/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/gemini-mate/</guid>
       <description>AI-powered study aid using React front-end and Google Gemini-backed services.</description>
     </item>
     <item>
       <title>HIPAA-Compliant Medical Records System</title>
-      <link>http://localhost:1313/portfolio/hipaa-medical-records/</link>
+      <link>http://localhost:1313/personal-website/portfolio/hipaa-medical-records/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/hipaa-medical-records/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/hipaa-medical-records/</guid>
       <description>Spring Boot + React + PostgreSQL stack on AWS with AES encryption and audited access.</description>
     </item>
     <item>
       <title>IoT Smart Home (ESP32 &#43; Raspberry Pi)</title>
-      <link>http://localhost:1313/portfolio/iot-smart-home/</link>
+      <link>http://localhost:1313/personal-website/portfolio/iot-smart-home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/iot-smart-home/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/iot-smart-home/</guid>
       <description>ESP32-controlled relays and sensors with Raspberry Pi processing over MQTT.</description>
     </item>
     <item>
       <title>Project One</title>
-      <link>http://localhost:1313/portfolio/project-one/</link>
+      <link>http://localhost:1313/personal-website/portfolio/project-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/project-one/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/project-one/</guid>
       <description>A lean service that pairs fast APIs with static pages for reliability.</description>
     </item>
     <item>
       <title>Project Three</title>
-      <link>http://localhost:1313/portfolio/project-three/</link>
+      <link>http://localhost:1313/personal-website/portfolio/project-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/project-three/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/project-three/</guid>
       <description>A command-line utility for quick environment diagnostics.</description>
     </item>
     <item>
       <title>Project Two</title>
-      <link>http://localhost:1313/portfolio/project-two/</link>
+      <link>http://localhost:1313/personal-website/portfolio/project-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/project-two/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/project-two/</guid>
       <description>Batch data pipelines tuned for predictable throughput and simple ops.</description>
     </item>
     <item>
       <title>Weather App</title>
-      <link>http://localhost:1313/portfolio/weather-app/</link>
+      <link>http://localhost:1313/personal-website/portfolio/weather-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/weather-app/</guid>
+      <guid>http://localhost:1313/personal-website/portfolio/weather-app/</guid>
       <description>React front-end with Spring Boot and MongoDB backend for real-time weather.</description>
     </item>
   </channel>
