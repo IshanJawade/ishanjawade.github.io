@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Ishan</title>
-    <link>http://localhost:1313/personal-website/blog/</link>
+    <link>https://ishanjawade.github.io/personal-website/blog/</link>
     <description>Recent content in Blogs on Ishan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/personal-website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ishanjawade.github.io/personal-website/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Like Simple Websites</title>
-      <link>http://localhost:1313/personal-website/blog/why-i-like-simple-websites/</link>
+      <link>https://ishanjawade.github.io/personal-website/blog/why-i-like-simple-websites/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/personal-website/blog/why-i-like-simple-websites/</guid>
+      <guid>https://ishanjawade.github.io/personal-website/blog/why-i-like-simple-websites/</guid>
       <description>Performance, clarity, and durability beat trends.</description>
     </item>
     <item>
       <title>Notes on Learning Systems Design</title>
-      <link>http://localhost:1313/personal-website/blog/notes-on-learning-systems-design/</link>
+      <link>https://ishanjawade.github.io/personal-website/blog/notes-on-learning-systems-design/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/personal-website/blog/notes-on-learning-systems-design/</guid>
+      <guid>https://ishanjawade.github.io/personal-website/blog/notes-on-learning-systems-design/</guid>
       <description>Takeaways from studying large-scale systems.</description>
+    </item>
+    <item>
+      <title>Laptop Buying Guide For Students by A Student</title>
+      <link>https://ishanjawade.github.io/personal-website/blog/laptop-buying_guide_for_students_by_a_student/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ishanjawade.github.io/personal-website/blog/laptop-buying_guide_for_students_by_a_student/</guid>
+      <description>It&amp;rsquo;s a guide for students to buy laptops based on their needs.</description>
     </item>
   </channel>
 </rss>
