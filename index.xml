@@ -6,22 +6,8 @@
     <description>Recent content in Home on Ishan Jawade</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ishanjawade.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why I Like Simple Websites</title>
-      <link>https://ishanjawade.github.io/blog/why-i-like-simple-websites/</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ishanjawade.github.io/blog/why-i-like-simple-websites/</guid>
-      <description>Performance, clarity, and durability beat trends.</description>
-    </item>
-    <item>
-      <title>Notes on Learning Systems Design</title>
-      <link>https://ishanjawade.github.io/blog/notes-on-learning-systems-design/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ishanjawade.github.io/blog/notes-on-learning-systems-design/</guid>
-      <description>Takeaways from studying large-scale systems.</description>
-    </item>
     <item>
       <title>Laptop Buying Guide For Students by A Student</title>
       <link>https://ishanjawade.github.io/blog/laptop-buying_guide_for_students_by_a_student/</link>
@@ -35,20 +21,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ishanjawade.github.io/portfolio/bare-metal-atmega/</guid>
       <description>Register-level C firmware to drive GPIO and blink LEDs on the ATmega328P.</description>
-    </item>
-    <item>
-      <title>Dooper</title>
-      <link>https://ishanjawade.github.io/portfolio/dooper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ishanjawade.github.io/portfolio/dooper/</guid>
-      <description>React + Spring Boot commerce app with MongoDB and Redis caching.</description>
-    </item>
-    <item>
-      <title>Gemini-Mate</title>
-      <link>https://ishanjawade.github.io/portfolio/gemini-mate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ishanjawade.github.io/portfolio/gemini-mate/</guid>
-      <description>AI-powered study aid using React front-end and Google Gemini-backed services.</description>
     </item>
     <item>
       <title>HIPAA-Compliant Medical Records System</title>

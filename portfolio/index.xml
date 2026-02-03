@@ -15,20 +15,6 @@
       <description>Register-level C firmware to drive GPIO and blink LEDs on the ATmega328P.</description>
     </item>
     <item>
-      <title>Dooper</title>
-      <link>https://ishanjawade.github.io/portfolio/dooper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ishanjawade.github.io/portfolio/dooper/</guid>
-      <description>React + Spring Boot commerce app with MongoDB and Redis caching.</description>
-    </item>
-    <item>
-      <title>Gemini-Mate</title>
-      <link>https://ishanjawade.github.io/portfolio/gemini-mate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ishanjawade.github.io/portfolio/gemini-mate/</guid>
-      <description>AI-powered study aid using React front-end and Google Gemini-backed services.</description>
-    </item>
-    <item>
       <title>HIPAA-Compliant Medical Records System</title>
       <link>https://ishanjawade.github.io/portfolio/hipaa-medical-records/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
